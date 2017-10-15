@@ -1,0 +1,3 @@
+./trec_eval -m "set_P" -m "set_recall" -m "set_F" -m "P.2" -m "Rprec" -m "map" -m "ndcg_cut.20" -q -c "train.test200.cbor.article.qrels" "outputfile"
+
+./trec_eval -m "set_P" -m "set_recall" -m "set_F" -m "P.2" -m "Rprec" -m "map" -m "ndcg_cut.20" -q -c "train.test200.cbor.article.qrels" "outputfile" >> evaluation scores

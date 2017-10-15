@@ -1,0 +1,4 @@
+#Sat Sep 02 17:41:14 CDT 2017
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=CLASSPATH
