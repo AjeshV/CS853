@@ -1,1 +1,1 @@
-# CS853
+# CS853 Information Retrieval
