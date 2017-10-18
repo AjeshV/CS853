@@ -1,8 +1,0 @@
-1
-Indexing to directory 'C:\Users\Ajesh\Desktop\UNH\Courses\CS853\Programming Assignment 1 Lucene Index for TREC Complex Answer Retrieval\Index'...
-adding C:\Users\Ajesh\Desktop\UNH\Courses\CS853\Programming Assignment 1 Lucene Index for TREC Complex Answer Retrieval\test200\train.test200.cbor.paragraphs
-3450 total milliseconds
-
-
-2.1
-
